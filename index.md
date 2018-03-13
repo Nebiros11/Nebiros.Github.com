@@ -14,6 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+title: Welcome to the Nebiros's Homepage
+description: Feel free to check my projects's updates
 
 - Bulleted
 - List
